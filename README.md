@@ -33,12 +33,10 @@ Add the following configuration to your claude_desktop_config.json file:
 
 - Replace YOUR_EMAIL with your actual email.
 - Replace YOUR_APP_PASSWORD with your email provider’s app-specific password (e.g., for Gmail).
-- Run `uv init` and `uv add mcp[cli]` as per the video tutorial in the course.  
 
-**Usage**
-- Click on the `+` icon and select the `Add from hr-assist` option, and send the request.
-- Fill the details for the new employee:
 
-<img src="resources\image.jpg" alt="Claude desktop prompt with fields" style="width:auto;height:300px;padding-left:30px">
+## 🧠 AI Development Conversation
 
-Alternatively, you can draft a custom prompt and let the agent take over.
+This project was developed and tested using Claude Desktop as the AI client, with MCP used to connect the AI assistant to the HR tools and services.
+
+👉 [View the Claude Desktop conversation](https://claude.ai/share/ff6bd419-9e8d-40b1-b8d7-3453538635b7)
